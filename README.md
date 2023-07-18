@@ -10,11 +10,11 @@ Sera necessario o Expo para executar o projeto em sua maquina
 npm install -g expo-cli
 ```
 
-Consulte **[Implantação](https://docs.expo.dev/)** para saber sobre o Expo
+Consulte **[Documentação](https://docs.expo.dev/)** para saber sobre o Expo
 
 Sera necessario o Expo para executar o projeto em sua maquina
 
-Consulte **[Implantação](https://nodejs.org/en)** para saber sobre o Node
+Consulte **[Documentação](https://nodejs.org/en)** para saber sobre o Node
 
 ```
 npm install
