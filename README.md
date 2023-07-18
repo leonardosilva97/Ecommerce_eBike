@@ -48,7 +48,7 @@ você ja pode visualizar o projeto
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Ferramentas utilizadas no projeto
 
 * [Native Base](https://nativebase.io/) - Criação de interfaces UI/UX
 * [Reanimated V2](https://docs.swmansion.com/react-native-reanimated/) - Animações
