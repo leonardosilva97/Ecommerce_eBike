@@ -36,6 +36,17 @@ npx expo start
 Através de um emulador ou do seu proprio smartphone com a câmera apontada para o QR-code que irá aparecer no terminal 
 você ja pode visualizar o projeto
 
+## 🛠️ Construído com
+
+Ferramentas utilizadas no projeto
+
+* [Native Base](https://nativebase.io/) - Criação de interfaces UI/UX
+* [Reanimated V2](https://docs.swmansion.com/react-native-reanimated/) - Animações
+* [Context API](https://legacy.reactjs.org/docs/context.html) - Gerenciamento de estado
+* [React Navigation](https://reactnavigation.org/) - Navegação no App
+* [Mapa e Geolocalização](https://cloud.google.com/apis?hl=pt-br) - Navegação no App
+
+
 
 ![Home](https://github.com/leonardosilva97/Ecommerce_eBike/blob/main/assets/README/Home.PNG)
 
@@ -47,16 +58,6 @@ você ja pode visualizar o projeto
 
 ![Map](https://github.com/leonardosilva97/Ecommerce_eBike/blob/main/assets/README/Map.PNG)
 
-
-## 🛠️ Construído com
-
-Ferramentas utilizadas no projeto
-
-* [Native Base](https://nativebase.io/) - Criação de interfaces UI/UX
-* [Reanimated V2](https://docs.swmansion.com/react-native-reanimated/) - Animações
-* [Context API](https://legacy.reactjs.org/docs/context.html) - Gerenciamento de estado
-* [React Navigation](https://reactnavigation.org/) - Navegação no App
-* [Mapa e Geolocalização](https://cloud.google.com/apis?hl=pt-br) - Navegação no App
 
 ---
 ⌨️ com ❤️ por [Leonardo Silva](https://github.com/leonardosilva97) 😊
