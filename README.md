@@ -44,7 +44,7 @@ Ferramentas utilizadas no projeto
 * [Reanimated V2](https://docs.swmansion.com/react-native-reanimated/) - Animações
 * [Context API](https://legacy.reactjs.org/docs/context.html) - Gerenciamento de estado
 * [React Navigation](https://reactnavigation.org/) - Navegação no App
-* [Mapa e Geolocalização](https://cloud.google.com/apis?hl=pt-br) - Navegação no App
+* [Mapa e Geolocalização](https://cloud.google.com/apis?hl=pt-br) - Google cloud
 
 
 
