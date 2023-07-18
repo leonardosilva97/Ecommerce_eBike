@@ -43,6 +43,8 @@ você ja pode visualizar o projeto
 
 ![Cart](https://github.com/leonardosilva97/Ecommerce_eBike/blob/main/assets/README/Cart.PNG)
 
+![Payment](https://github.com/leonardosilva97/Ecommerce_eBike/blob/main/assets/README/Payment.PNG)
+
 ![Map](https://github.com/leonardosilva97/Ecommerce_eBike/blob/main/assets/README/Map.PNG)
 
 
